@@ -1,0 +1,7 @@
+.divChild{
+    border: 1px solid white;
+    margin-top: 5vw;
+    padding-bottom:22px ;
+    border-radius: 2vw;
+    background-color: rgba(231, 220, 220,0.3);
+}
